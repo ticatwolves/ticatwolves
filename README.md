@@ -38,6 +38,10 @@ An end-to-end notification configuration and delivery utility built with Go and 
 * AI-assisted Developer Workflows
 
 ---
+## 🎖️ GitHub Achievements
+
+<div class=""><div class="d-flex flex-wrap"><a href="/ticatwolves?achievement=pull-shark&amp;tab=achievements" class="position-relative"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" data-hovercard-type="achievement" data-hovercard-url="/users/ticatwolves/achievements/pull-shark/detail?hovercard=1" width="64" alt="Achievement: Pull Shark" data-view-component="true" class="achievement-badge-sidebar" aria-keyshortcuts="Alt+ArrowUp"></a><a href="/ticatwolves?achievement=quickdraw&amp;tab=achievements" class="position-relative"><img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" data-hovercard-type="achievement" data-hovercard-url="/users/ticatwolves/achievements/quickdraw/detail?hovercard=1" width="64" alt="Achievement: Quickdraw" data-view-component="true" class="achievement-badge-sidebar" aria-keyshortcuts="Alt+ArrowUp"></a></div></div>
+
 
 ## 📈 GitHub Stats
 
